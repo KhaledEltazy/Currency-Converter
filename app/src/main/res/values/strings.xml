@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="email">"@gmail.com"</string>
+    <string name="egyptian_pound">Egyptian Pound</string>
+    <string name="to">To</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="american_dollar">American dollar</string>
+    <string name="from">From</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="amount">amount</string>
+    <string name="convert">CONVERT</string>
+</resources>
